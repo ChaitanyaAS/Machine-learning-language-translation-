@@ -1,0 +1,12 @@
+Language Translator Application
+Overview
+A Python-based Language Translator app using Tkinter for the GUI and the Google Translate API for translating text between multiple languages.
+
+Features
+User-friendly interface for easy text input and language selection
+Supports translation for various languages (e.g., Kannada, Hindi, Spanish)
+Options to translate text or clear inputs
+Error handling for empty input
+
+
+This was the very basic application based on google translator which is the part of machine learning and neura network.
